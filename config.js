@@ -1,32 +1,32 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
+    "pageTitle": "Win a Couples Italian Night Out in Toronto – $285 Value!",
+    "navBrandLogoText": "Daaron Johnston",
     "privacyPolicyLink": "https://property.ca/privacy"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2025-07-26T03:59:00.000Z",
+    "heroHeadline": "Win a <span class='highlight'>Romantic Italian Date Night</span> for Two in Toronto!",
+    "heroSubheadline": "Missed a European vacation this year? Bring Italy home with an unforgettable evening out – valued at $285. Limited spots. Enter now before November 1st!",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/r54e1tkb41rma0cs5b78zjp7bw.jpg",
+    "promotionDates": "Enter between September 9th and November 1st, 2025. Don’t miss your chance!",
+    "endDate": "2025-11-02T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter for My Chance!",
+    "name": "Italian Couples’ Night Out Toronto",
+    "successModalHeaderText": "You’re Entered for Date Night!",
+    "successModalMainMessage": "Your entry for the <strong>Italian Couples’ Night Out</strong> is in the draw! We’ll contact the lucky winner on November 1st by email – keep an eye out. Good luck!",
+    "successModalEmailPrompt": "Share this giveaway with other Toronto couples and double your chance for a fun-filled evening!"
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
-      "#FFFFFF"
+      "#800000",
+      "#B22222",
+      "#FF4500"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
+    "primaryColorOverride": "",
+    "secondaryColorOverride": "#B22222",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
@@ -35,234 +35,212 @@ const config = {
   },
   "thankYouPage": {
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+    "headerText": "You’re Entered for Date Night!",
+    "mainMessage": "Your entry for the <strong>Italian Couples’ Night Out</strong> is in the draw! We’ll contact the lucky winner on November 1st by email – keep an eye out. Good luck!",
+    "socialPromptText": "Share this giveaway with other Toronto couples and double your chance for a fun-filled evening!"
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://api.typeform.com/responses/files/9656b393b44b3648e7410964f8c88cc7689f1ec9aa589cece811194ab53261f0/IMG_9557.JPG",
+        "alt": "Couple enjoying Italian dinner in a cozy Toronto restaurant"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/r54e1tkb41rma0cs5b78zjp7bw.jpg",
+        "alt": "Wine glasses and pasta plates on a candlelit table"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/r54e1tkb41rma0cs5b78zjp7bw.jpg",
+        "alt": "Romantic evening setting with Italian-inspired decor"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/r54e1tkb41rma0cs5b78zjp7bw.jpg",
+        "alt": "Happy couple smiling on a night out"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-utensils",
+        "text": "Dinner for Two at a top Italian spot"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-wine-glass-alt",
+        "text": "Free bottle of wine included"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-gift",
+        "text": "Special dessert as a sweet bonus"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-heart",
+        "text": "Perfect for couples or close friends"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-euro-sign",
+        "text": "Bring the romance of Italy to Toronto"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Italian Couples’ Night Out Experience",
+    "value": "$285 Value",
+    "description": "Imagine a cozy night out in Toronto with your favorite person. Enjoy a taste of Italy without leaving the city. Share laughs, make memories, and feel like you’ve finally had that getaway you’ve been missing. This experience is designed for couples who deserve something special.",
+    "limitedTimeOfferText": "Celebrate the end of summer with this unforgettable evening – only for a short time!",
+    "ctaButtonText": "I Want a Romantic Night!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
         "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "description": "Share your name, email, and a few quick answers below. You’ll be done in 30 seconds!"
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-heart",
+        "title": "Tell Us About You",
+        "description": "Answer just a few simple questions about your dream living space and perfect night out."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "Submit & Relax",
+        "description": "That’s it – you’re entered! One lucky couple wins the Italian night out. Winner announced November 1st."
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "Takes less than 1 minute"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "No purchase needed – totally free"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-users",
+        "text": "Perfect for couples and young families"
       },
       {
-        "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "icon": "fas fa-random",
+        "text": "Winner chosen at random – everyone has a chance"
+      },
+      {
+        "icon": "fas fa-calendar-alt",
+        "text": "Winner announced November 1st"
+      },
+      {
+        "icon": "fas fa-map-marker-alt",
+        "text": "Enjoy in the heart of Toronto"
       }
-    ]
-  },
-  "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
+    ],
+    "fairSelectionInfo": {
+      "title": "Every Couple Has a Fair Chance",
+      "text": "We use a random draw to pick our winner. Every valid entry has an equal chance. If you’re 18+ and live in the GTA, you can win."
+    },
+    "importantNotice": {
+      "title": "Winner Will Be Notified by Email",
+      "text": "On November 1st, the lucky winner will get a direct email from us. Mark your calendar and check your inbox. We’ll also announce on Instagram and Facebook!"
+    },
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Must be 18 or older and living in the GTA. Couples, young families, and anyone dreaming of a bigger home are welcome."
       },
       {
         "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "a": "Watch your email inbox on November 1st. We’ll contact the winner directly and also share the update on our social pages."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "Can I really enter for free?",
+        "a": "Yes! There’s no cost or obligation. Just fill out the form and you’re in."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "When does the giveaway end?",
+        "a": "Deadline is November 1st, 2025. Get your entry in before then!"
+      },
+      {
+        "q": "Is the prize transferable?",
+        "a": "Yes! If you win and want to give the experience to friends or family, that’s no problem."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
-    ],
-    "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
-    },
-    "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
-    }
+      "Double check your email for accuracy",
+      "Follow Daaron Johnston on Instagram and Facebook for updates",
+      "Share with other couples or friends looking for a special night",
+      "Watch your inbox on November 1st – you could win big!"
+    ]
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2FGiveaway-974.netlify.app%2Fadmin",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-974.netlify.app%2Fadmin&text=Win%20a%20Couples%20Italian%20Night%20Out%20in%20Toronto%20%E2%80%93%20%24285%20Value!"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don’t miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!"
+    "subtitle": "Enter your details below for a chance to win a $285 Italian couples’ night out in Toronto!",
+    "entryCountText": "Many couples and families have already entered. Don’t let this date night slip away!",
+    "socialSharePrompt": "Know friends or couples who would love this? Share this link and help others celebrate too!"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_1052956479_0",
+      "questionText": "Are you currently living in a condo, house, or townhouse?",
       "options": [
-        {
-          "value": "The location",
-          "text": "The location"
-        },
-        {
-          "value": "The layout",
-          "text": "The layout"
-        },
-        {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
-        },
-        {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
-        }
+        {"value": "Condo", "text": "Condo"},
+        {"value": "House", "text": "House"},
+        {"value": "Townhouse", "text": "Townhouse"}
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1052956479_1",
+      "questionText": "Are you thinking about moving to a bigger space in the next year?",
       "options": [
-        {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
-        },
-        {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
-        },
-        {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
-        },
-        {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
-        }
+        {"value": "Yes", "text": "Yes"},
+        {"value": "No", "text": "No"},
+        {"value": "Maybe", "text": "Maybe"}
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_1052956479_2",
+      "questionText": "Do you prefer living closer to the city, or do you want more space outside the core?",
       "options": [
-        {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
-        },
-        {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
-        },
-        {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
-        },
-        {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
-        }
+        {"value": "Closer to city", "text": "Closer to city"},
+        {"value": "More space outside core", "text": "More space outside core"}
+      ]
+    },
+    {
+      "id": "q_auto_1052956479_3",
+      "questionText": "What would your dream date night in Toronto look like?",
+      "options": [
+        {"value": "Fine dining", "text": "Fine dining"},
+        {"value": "Cooking classes", "text": "Cooking classes"},
+        {"value": "Outdoor adventures", "text": "Outdoor adventures"},
+        {"value": "Relaxing at home", "text": "Relaxing at home"}
       ]
     }
   ],
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/people/Daaron-Johnston/100066548707831/",
+      "instagram": "https://www.instagram.com/daaronjohnston/"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Daaron Johnston",
+      "title": "Real Estate Broker",
+      "phone": "(647) 409-6568",
+      "email": "daaron@property.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
+    "footerDisclaimer": "This giveaway is sponsored by Daaron Johnston and is not affiliated with any restaurant or travel brand. Winner chosen at random from all eligible entries by November 1st, 2025. Must be 18+ and live in the GTA to enter.",
     "organizerLogoUrl": "",
     "secondaryLogoUrl": "",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
+    "organizerName": "Daaron Johnston",
     "brokerageName": "Property.Ca",
     "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
+    "email": "daaron@property.ca",
+    "phone": "(647) 409-6568",
     "copyrightOwner": "Property.Ca"
   },
   "deploymentInfo": {
-    "repoName": "Giveaway-558",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-558",
-    "netlifyUrl": "http://Giveaway-558.netlify.app",
-    "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "repoName": "Giveaway-974",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-974",
+    "netlifyUrl": "http://Giveaway-974.netlify.app",
+    "netlifyId": "1052956479",
+    "tag": "Italian Couples Night Out"
   }
 };
