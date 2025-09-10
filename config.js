@@ -28,16 +28,10 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#B22222",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re Entered for Date Night!",
-    "mainMessage": "Your entry for the <strong>Italian Couples’ Night Out</strong> is in the draw! We’ll contact the lucky winner on November 1st by email – keep an eye out. Good luck!",
-    "socialPromptText": "Share this giveaway with other Toronto couples and double your chance for a fun-filled evening!"
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -129,43 +123,21 @@ const config = {
         "icon": "fas fa-map-marker-alt",
         "text": "Enjoy in the heart of Toronto"
       }
-    ],
+    ]
+  },
+  "rules": {
+    "faq": [],
+    "tips": [],
+    "finePrintText": "",
+    "showTipsSection": false,
     "fairSelectionInfo": {
-      "title": "Every Couple Has a Fair Chance",
-      "text": "We use a random draw to pick our winner. Every valid entry has an equal chance. If you’re 18+ and live in the GTA, you can win."
+      "title": "",
+      "text": ""
     },
     "importantNotice": {
-      "title": "Winner Will Be Notified by Email",
-      "text": "On November 1st, the lucky winner will get a direct email from us. Mark your calendar and check your inbox. We’ll also announce on Instagram and Facebook!"
-    },
-    "faq": [
-      {
-        "q": "Who can enter?",
-        "a": "Must be 18 or older and living in the GTA. Couples, young families, and anyone dreaming of a bigger home are welcome."
-      },
-      {
-        "q": "How will I know if I win?",
-        "a": "Watch your email inbox on November 1st. We’ll contact the winner directly and also share the update on our social pages."
-      },
-      {
-        "q": "Can I really enter for free?",
-        "a": "Yes! There’s no cost or obligation. Just fill out the form and you’re in."
-      },
-      {
-        "q": "When does the giveaway end?",
-        "a": "Deadline is November 1st, 2025. Get your entry in before then!"
-      },
-      {
-        "q": "Is the prize transferable?",
-        "a": "Yes! If you win and want to give the experience to friends or family, that’s no problem."
-      }
-    ],
-    "tips": [
-      "Double check your email for accuracy",
-      "Follow Daaron Johnston on Instagram and Facebook for updates",
-      "Share with other couples or friends looking for a special night",
-      "Watch your inbox on November 1st – you could win big!"
-    ]
+      "title": "",
+      "text": ""
+    }
   },
   "entryForm": {
     "sharePlatforms": {
@@ -178,42 +150,84 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1052956479_0",
-      "questionText": "Are you currently living in a condo, house, or townhouse?",
+      "id": "q_auto_1757529605379_0",
+      "questionText": "What do you like the most about your current home?",
       "options": [
-        {"value": "Condo", "text": "Condo"},
-        {"value": "House", "text": "House"},
-        {"value": "Townhouse", "text": "Townhouse"}
+        {
+          "value": "The location",
+          "text": "The location"
+        },
+        {
+          "value": "The layout",
+          "text": "The layout"
+        },
+        {
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
+        },
+        {
+          "value": "The outdoor space",
+          "text": "The outdoor space"
+        }
       ]
     },
     {
-      "id": "q_auto_1052956479_1",
-      "questionText": "Are you thinking about moving to a bigger space in the next year?",
+      "id": "q_auto_1757529605379_1",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
-        {"value": "Yes", "text": "Yes"},
-        {"value": "No", "text": "No"},
-        {"value": "Maybe", "text": "Maybe"}
+        {
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
+        },
+        {
+          "value": "Yes, in the next 1–2 years",
+          "text": "Yes, in the next 1–2 years"
+        },
+        {
+          "value": "Not at the moment",
+          "text": "Not at the moment"
+        },
+        {
+          "value": "I’m not sure yet",
+          "text": "I’m not sure yet"
+        }
       ]
     },
     {
-      "id": "q_auto_1052956479_2",
-      "questionText": "Do you prefer living closer to the city, or do you want more space outside the core?",
+      "id": "q_auto_1757529605379_2",
+      "questionText": "What’s your current housing situation?",
       "options": [
-        {"value": "Closer to city", "text": "Closer to city"},
-        {"value": "More space outside core", "text": "More space outside core"}
-      ]
-    },
-    {
-      "id": "q_auto_1052956479_3",
-      "questionText": "What would your dream date night in Toronto look like?",
-      "options": [
-        {"value": "Fine dining", "text": "Fine dining"},
-        {"value": "Cooking classes", "text": "Cooking classes"},
-        {"value": "Outdoor adventures", "text": "Outdoor adventures"},
-        {"value": "Relaxing at home", "text": "Relaxing at home"}
+        {
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
+        },
+        {
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
+        },
+        {
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
+        },
+        {
+          "value": "I’m actively looking to buy or sell now",
+          "text": "I’m actively looking to buy or sell now"
+        }
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re Entered for Date Night!",
+    "mainMessage": "Your entry for the <strong>Italian Couples’ Night Out</strong> is in the draw! We’ll contact the lucky winner on November 1st by email – keep an eye out. Good luck!",
+    "socialPromptText": "Share this giveaway with other Toronto couples and double your chance for a fun-filled evening!"
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/people/Daaron-Johnston/100066548707831/",
