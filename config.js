@@ -150,7 +150,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757529605379_0",
+      "id": "q_auto_1757530132544_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -172,7 +172,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757529605379_1",
+      "id": "q_auto_1757530132544_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757529605379_2",
+      "id": "q_auto_1757530132544_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -240,8 +240,8 @@ const config = {
       "email": "daaron@property.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by Daaron Johnston and is not affiliated with any restaurant or travel brand. Winner chosen at random from all eligible entries by November 1st, 2025. Must be 18+ and live in the GTA to enter.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
+    "organizerLogoUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/5LwEgxAcQN6CdYWQXNYq/media/afffa9f4-9be1-48b2-857d-0907f64d2e97.png",
+    "secondaryLogoUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/5LwEgxAcQN6CdYWQXNYq/media/6813d66601c78bf3c795155b.png",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
     "organizerName": "Daaron Johnston",
     "brokerageName": "Property.Ca",
