@@ -5,7 +5,7 @@ const config = {
     "privacyPolicyLink": "https://property.ca/privacy"
   },
   "giveaway": {
-    "heroHeadline": "Win a <span class='highlight'>Romantic Italian Date Night</span> for Two in Toronto!",
+    "heroHeadline": "Win an <span class='highlight'>Italian Night Out</span> for Two in Toronto!",
     "heroSubheadline": "Missed a European vacation this year? Bring Italy home with an unforgettable evening out – valued at $285. Limited spots. Enter now before November 1st!",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/r54e1tkb41rma0cs5b78zjp7bw.jpg",
     "promotionDates": "Enter between September 9th and November 1st, 2025. Don’t miss your chance!",
@@ -71,14 +71,14 @@ const config = {
       },
       {
         "icon": "fas fa-euro-sign",
-        "text": "Bring the romance of Italy to Toronto"
+        "text": "Bring the feeling of Italy to Toronto"
       }
     ],
     "name": "Italian Couples’ Night Out Experience",
     "value": "$285 Value",
     "description": "Imagine a cozy night out in Toronto with your favorite person. Enjoy a taste of Italy without leaving the city. Share laughs, make memories, and feel like you’ve finally had that getaway you’ve been missing. This experience is designed for couples who deserve something special.",
     "limitedTimeOfferText": "Celebrate the end of summer with this unforgettable evening – only for a short time!",
-    "ctaButtonText": "I Want a Romantic Night!"
+    "ctaButtonText": "I Want an Italian Night!"
   },
   "howToEnter": {
     "steps": [
@@ -150,7 +150,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757617140337_0",
+      "id": "q_auto_1757695747278_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -172,7 +172,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757617140337_1",
+      "id": "q_auto_1757695747278_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757617140337_2",
+      "id": "q_auto_1757695747278_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
