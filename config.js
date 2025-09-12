@@ -74,10 +74,10 @@ const config = {
         "text": "Bring the feeling of Italy to Toronto"
       }
     ],
-    "name": "Italian Couples’ Night Out Experience",
+    "name": "Italian Night Out Experience",
     "value": "$285 Value",
     "description": "Imagine a cozy night out in Toronto with your favorite person. Enjoy a taste of Italy without leaving the city. Share laughs, make memories, and feel like you’ve finally had that getaway you’ve been missing. This experience is designed for couples who deserve something special.",
-    "limitedTimeOfferText": "Celebrate the end of summer with this unforgettable evening – only for a short time!",
+    "limitedTimeOfferText": "Celebrate the end of summer with this unforgettable evening - only for a short time!",
     "ctaButtonText": "I Want an Italian Night!"
   },
   "howToEnter": {
@@ -150,7 +150,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757695747278_0",
+      "id": "q_auto_1757696063985_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -172,7 +172,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757695747278_1",
+      "id": "q_auto_1757696063985_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757695747278_2",
+      "id": "q_auto_1757696063985_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
